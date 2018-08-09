@@ -1,4 +1,5 @@
 public class MediaAluno {
+
 	//Atributos
 	private double nota1;
 	private double nota2;

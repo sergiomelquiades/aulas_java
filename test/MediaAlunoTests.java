@@ -1,6 +1,7 @@
 public class MediaAlunoTests {
 	public static void main(String[] args) {
 		MediaAluno calc = new MediaAluno(10, 8.5, 7.5, 8);
+
 		calc.setNome("Sergio");
 		print(calc);
 
