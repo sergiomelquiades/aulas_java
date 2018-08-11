@@ -1,0 +1,52 @@
+1) A condição física de uma pessoa pode ser medida com base no cálculo do índice de Massa Corporal (IMC).
+O mesmo é calculado dividindo-se o peso desta pessoa pelo quadrado da altura em m.
+Escreva um programa que leia o peso em kg e a altura de uma pessoa em m, calcule e mostre o IMC.
+Resolvido
+
+2) Faça um programa que, a partir da leitura das medidas dos lados de um retângulo (comprimento e largura), lidos do teclado,
+calcule e imprima a área e o perímetro do retângulo. A fórmula da área do retângulo é A = C * L e do perímetro P = 2 * C + 2 * L.
+Resolvido
+
+3) Faça um programa para calcular a média final de quatro notas bimestrais.
+A média é calculada através de uma média aritmética simples (todos os bimestres têm o mesmo peso).
+Resolvido
+
+4) Uma parede em formato retangular, cuja altura é hp (altura da parede) e a largura lp (largura da parede)
+precisa ser coberta por azulejos também retangulares.
+O azulejo retangular tem dimensões ha (altura do azulejo) e la (largura do azulejo).
+Escreva um programa que leia as quatro medidas hp, lp, ha e la,
+calcule e imprima quanto azulejos com as medidas dadas são necessários para cobrir a parede dada.
+Resolvido
+
+
+5) Numa determinada região, o imposto sobre propriedade é calculado a partir de duas informações
+- área total do terreno (m2).
+- área construída do terreno (m2).
+O imposto é cobrado da seguinte maneira:
+- R$ 5,00 para cada metro quadrado construído.
+- R$ 3,80 para cada metro quadrado não construído.
+Faça um programa que leia a área total do terreno, a área construída do terreno, calcule e imprima o valor total a ser pago.
+
+
+
+
+6) Calcular e apresentar o valor do volume de uma lata de óleo, utilizando fórmula: V = 3.14159 * R * R * A,
+em que as variáveis: V, R e A representam respectivamente o volume, o raio e a altura.
+
+
+
+7) Ler uma temperatura em graus Fahrenheit e apresentá-la convertida em graus Celsius.
+A fórmula de conversão de temperatura a ser utilizada é C = (F – 32) * 5 / 9,
+em que a variável F é a temperatura em graus Fahrenheit e a variável C é a temperatura em graus Celsius.
+
+
+8) Dados dois números inteiros positivos x=x1x2x3 e y=y1y2y3 para os quais cada dígito está entre 0 e 9,
+chamamos de produto dígito a dígito entre x e y ao número z=z1z2z3 em que:
+- z1 = (x1 * y1) mod 10;
+- z2 = (x2 * y2) mod 10;
+- z3 = (x3 * y3) mod 10;
+Escreva um programa que leia x e y e imprima z.
+
+9) Ler dois valores inteiros para as variáveis A e B,
+efetuar a troca dos valores de modo que a variável A passe a possuir o valor da variável B,
+e a variável B passe a possuir o valor da variável A. Apresentar os valores trocados.
