@@ -15,8 +15,6 @@ public class AzulejoParedeTests {
 	}
 
 	public static void print(AzulejoParede azulejoParede){
-		System.out.println("A área da " + azulejoParede.getNomeParede() + " é " + azulejoParede.calculoAreaParede());
-		System.out.println("A área do " + azulejoParede.getNomeAzulejo() + " é " + azulejoParede.calculoAreaAzulejo());
 		System.out.println("São necessários " + azulejoParede.calculoQtdeAzulejo() + " " + azulejoParede.getNomeAzulejo() + " para cobrir a " + azulejoParede.getNomeParede());
 	}
 }

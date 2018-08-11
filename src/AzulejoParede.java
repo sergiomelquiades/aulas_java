@@ -52,15 +52,7 @@ public class AzulejoParede {
 	}
 
 	//Metodos
-	public double calculoAreaParede(){
-		return alturaParede * larguraParede;
-	}
-
-	public double calculoAreaAzulejo(){
-		return alturaAzulejo * larguraAzulejo;
-	}
-
 	public double calculoQtdeAzulejo(){
-		return calculoAreaParede() / calculoAreaAzulejo();
+		return (alturaParede * larguraParede) / (alturaAzulejo * larguraAzulejo);
 	}
 }
