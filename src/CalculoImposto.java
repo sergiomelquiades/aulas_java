@@ -25,7 +25,7 @@ public class CalculoImposto {
 	}
 
 	public double apuraImposto(){
-		return (areaTotal * 5) + (areaConstruida * 3.8);
+		return (areaTotal * 5 - areaConstruida) + (areaConstruida * 3.8);
 	}
 
 }
