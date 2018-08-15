@@ -26,7 +26,7 @@ O imposto é cobrado da seguinte maneira:
 - R$ 5,00 para cada metro quadrado construído.
 - R$ 3,80 para cada metro quadrado não construído.
 Faça um programa que leia a área total do terreno, a área construída do terreno, calcule e imprima o valor total a ser pago.
-
+Resolvido
 
 
 
