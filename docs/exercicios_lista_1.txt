@@ -18,7 +18,6 @@ Escreva um programa que leia as quatro medidas hp, lp, ha e la,
 calcule e imprima quanto azulejos com as medidas dadas são necessários para cobrir a parede dada.
 Resolvido
 
-
 5) Numa determinada região, o imposto sobre propriedade é calculado a partir de duas informações
 - área total do terreno (m2).
 - área construída do terreno (m2).
@@ -28,12 +27,9 @@ O imposto é cobrado da seguinte maneira:
 Faça um programa que leia a área total do terreno, a área construída do terreno, calcule e imprima o valor total a ser pago.
 Resolvido
 
-
-
 6) Calcular e apresentar o valor do volume de uma lata de óleo, utilizando fórmula: V = 3.14159 * R * R * A,
 em que as variáveis: V, R e A representam respectivamente o volume, o raio e a altura.
-
-
+Resolvido
 
 7) Ler uma temperatura em graus Fahrenheit e apresentá-la convertida em graus Celsius.
 A fórmula de conversão de temperatura a ser utilizada é C = (F – 32) * 5 / 9,
