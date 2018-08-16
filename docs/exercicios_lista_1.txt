@@ -34,7 +34,7 @@ Resolvido
 7) Ler uma temperatura em graus Fahrenheit e apresentá-la convertida em graus Celsius.
 A fórmula de conversão de temperatura a ser utilizada é C = (F – 32) * 5 / 9,
 em que a variável F é a temperatura em graus Fahrenheit e a variável C é a temperatura em graus Celsius.
-
+Resolvido
 
 8) Dados dois números inteiros positivos x=x1x2x3 e y=y1y2y3 para os quais cada dígito está entre 0 e 9,
 chamamos de produto dígito a dígito entre x e y ao número z=z1z2z3 em que:
