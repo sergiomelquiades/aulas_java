@@ -25,6 +25,6 @@ public class VolumeOleo {
 	}
 
 	public double calculoVolume(){
-		return 3.14159 * raio * 2 * altura;
+		return 3.14159 * raio * raio * altura;
 	}
 }
