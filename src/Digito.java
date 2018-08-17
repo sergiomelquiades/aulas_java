@@ -1,8 +1,9 @@
 public class Digito {
-	int x;
-	int y;
-	int digito;
-	String numeros;
+	private int x;
+	private int y;
+	private int z;
+	private int result;
+	private String numeros;
 
 	public Digito(int x, int y){
 		this.x = x;
@@ -25,12 +26,15 @@ public class Digito {
 		return numeros;
 	}
 
+
 	public int mostraDigito(){
-		while (digito <= 2){
-			return digito = (x * y)%10;
+		while (result <= 2){
+		return (x * y)%10;
+
 		}
 
-		return digito++;
+		return result++;
 	}
+
 
 }
